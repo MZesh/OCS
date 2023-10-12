@@ -1,0 +1,29 @@
+.card-bg {
+    background-color: skyblue;
+    border-radius: 25px !important;
+    width: 680px;
+    height: 362px;
+}
+
+.head {
+   background-color:  lightgoldenrodyellow;
+}
+
+.card-foot {
+    background-color: black;
+    color:white;
+    padding: 4px;
+    margin:2px;
+}
+
+.img-card {
+    position: absolute;
+    right: 46px;
+    top: 169px;
+
+}
+
+.hide {
+    display:none;
+}
+ 
